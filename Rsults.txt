@@ -1,0 +1,84 @@
++--------------------+------------------+------------------+-------+--------------------------------+-------------------------------------+------+--------+--------+-----+------------+
+|        Name        |       Card       |       Type       | Brand |            Country             |                 Bank                | Luhn | Length | Expiry | CVV |   Status   |
++--------------------+------------------+------------------+-------+--------------------------------+-------------------------------------+------+--------+--------+-----+------------+
+|    James Morris    | 4840416577300061 |       Visa       |  visa | United States of America (the) |   Southwest Louisiana Credit Union  |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Brandon Edwards   | 4437628416964736 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Madison Perez    | 4798092513689781 |       Visa       |  visa | United States of America (the) | Bank Of America - Commercial Credit |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+|    Mason Watson    | 4718468321850900 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Sophia Martin    | 4163952512007908 |       Visa       |  visa |             Italy              |            Isybank S.P.A.           |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Zoey Peterson    | 4182925019919157 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Tyler Torres    | 4590018401062788 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Leah Clark     | 4663824264090026 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Lucas Diaz     | 4605294977088662 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Dylan Gomez     | 4579195694334608 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|      Nora Cox      | 4661534270979747 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Michael Lopez    | 4154548005634281 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Jonathan Allen   | 4826140966912380 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Robert Perez    | 4774692234114882 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+|    Evelyn Scott    | 4744598447247441 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  William Martinez  | 4237889609361608 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+| Madison Richardson | 4879818124348503 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Isabella Parker   | 4525331399192916 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Chloe Robinson   | 4769839640430373 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Sophia Moore    | 4248395358075266 |       Visa       |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Andrew Bailey    | 345193017617700  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Camila Hill     | 373845073691467  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Anthony Thompson  | 341654975221940  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Evelyn Ward     | 374733644436128  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     James Bell     | 342467051224522  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Tyler Campbell   | 371967959760824  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Ellie Wood     | 347958713449969  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Tyler Sanchez    | 347817771704414  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Nathan Howard    | 349699562483592  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Nathan Young    | 375907620681038  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Sophia Young    | 372868261618186  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Michael Jones    | 341712489325536  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Charlotte Morris  | 371575981928340  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Avery Edwards    | 379546113869778  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Stella Morgan    | 348099745712013  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Leah White     | 346758687951157  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Hannah Watson    | 342101633598000  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Layla Adams     | 342884430411367  | American Express |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+|  Gabriel Campbell  | 340898792502787  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Sarah Lee      | 374596193526837  | American Express |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   David Mitchell   | 5494064975057160 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Zoey Nguyen     | 5300569644194833 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Harper King     | 5257420405142263 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Sophia Adams    | 5486021790653310 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Jack Young     | 5485629765040269 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Emma Bailey     | 5200552639754355 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Chloe Campbell   | 5592653740324047 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Abigail Walker   | 5245766198030284 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Chloe Roberts    | 5279758962176703 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+|   Robert Nguyen    | 5507725152534374 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Charlotte Bell   | 5529937064033641 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Nora Davis     | 5457906898868812 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Riley Miller    | 5258463290459565 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Charlotte Harris  | 5271312867999439 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Charlotte Wilson  | 5274093360482401 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Nathan Green    | 5316472528344866 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Joseph Peterson   | 5534572870311779 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Gabriel Morgan   | 5266734953333726 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Tyler Bell     | 5336331200618824 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Gabriel Perez    | 5431527999995328 |    MasterCard    |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Joseph Rodriguez  | 3512204278041669 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Avery Moore     | 3532270388647876 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Riley Hall     | 3502379862679231 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Jackson Howard   | 3584036502683711 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Emily Ramirez    | 3514217863449499 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Caleb Smith     | 3538587243536300 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Robert Lewis    | 3593321276564123 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Abigail Clark    | 3579224151754722 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Nathan Wilson    | 3516130472636179 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|  Benjamin Watson   | 3537040452012535 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Michael Murphy   | 3571618994751131 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
+|  Elijah Campbell   | 3537239393438994 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Sofia Rivera    | 3533975251945354 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Zoey Martinez    | 3528742879015162 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Leah Diaz      | 3538966764991000 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Amelia Lee     | 3522880042821102 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Paisley Jones    | 3528159897979805 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|   Abigail Nelson   | 3523031743120555 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|    Aubrey Wood     | 3560762304166335 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✘   |   ✔    |   ✔    |  ✔  | INVALID ❌ |
+|     Aria Young     | 3508368763757780 |       JCB        |  N/A  |              N/A               |                 N/A                 |  ✔   |   ✔    |   ✔    |  ✔  |  VALID ✅  |
++--------------------+------------------+------------------+-------+--------------------------------+-------------------------------------+------+--------+--------+-----+------------+
